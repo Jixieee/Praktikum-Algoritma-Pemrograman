@@ -1,0 +1,18 @@
+Data mahasiswa ke-1
+Nama: Muhammad
+NIM: 23343030
+Jurusan: Elektronika
+Program Studi: Informatika
+
+Data mahasiswa ke-2
+Nama: Jimmy
+NIM: 23343046
+Jurusan: Elektronika
+Program Studi: Informatika
+
+Data mahasiswa ke-3
+Nama: Afif
+NIM: 23343090
+Jurusan: Elektronika
+Program Studi: Informatika
+
